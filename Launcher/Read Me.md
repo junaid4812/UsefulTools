@@ -42,6 +42,7 @@ As you can notice in the above image, you can either use the number or provide t
 
 For e.g. 
 to open chrome, I can pass input as `1` or `Chrome` or `chrome` or `ch` or `ome` etc
+
 to open my UsefulTools Repository, I can pass input as `3` or `Tool` or `use` or `useful` etc
 
 ![Launcher Menu](../Images/LauncherMenuExample.jpg)
