@@ -40,4 +40,11 @@ This column allows you to pass the additional parameter that can be used by the 
 
 As you can notice in the above image, you can either use the number or provide the name to open the sepcific menu item
 
-For e.g. to open chrome, I can pass input as `1` or `Chrome` or `chrome` or `ch` or `ome` etc
+For e.g. 
+to open chrome, I can pass input as `1` or `Chrome` or `chrome` or `ch` or `ome` etc
+to open my UsefulTools Repository, I can pass input as `3` or `Tool` or `use` or `useful` etc
+
+![Launcher Menu](../Images/LauncherMenuExample.jpg)
+
+Will launch <https://github.com/junaid4812/UsefulTools> in chrome browser
+

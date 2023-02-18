@@ -1,5 +1,7 @@
 Display Name,Path, Argument List
 Chrome, C:\Program Files\Google\Chrome\Application\chrome.exe,https://www.google.com.sg
+Google, C:\Program Files\Google\Chrome\Application\chrome.exe,https://www.google.com.sg
+Useful Tools, C:\Program Files\Google\Chrome\Application\chrome.exe,https://github.com/junaid4812/UsefulTools
 Edge, C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://www.google.com.sg
 Downloads, C:\Users\gituser\Downloads
 Daily Notes, C:\Users\gituser\Downloads\daily-notes.txt
