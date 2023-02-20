@@ -49,3 +49,9 @@ to open my UsefulTools Repository, I can pass input as `3` or `Tool` or `use` or
 
 Will launch <https://github.com/junaid4812/UsefulTools> in chrome browser
 
+## What if I want to start my application in Admin Mode?
+
+Fear not, this feature is added too. Just add a \* before the name of the application in the `LauncherConfig.csv` file
+
+*Note: \* cannot be used for launching the application, its just an indicator to start shortcut in admin mode * 
+
