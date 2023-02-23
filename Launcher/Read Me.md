@@ -55,3 +55,13 @@ Fear not, this feature is added too. Just add a \* before the name of the applic
 
 *Note: \* cannot be used for launching the application, its just an indicator to start shortcut in admin mode * 
 
+
+## Can I pass the application name at command prompt?
+
+Yes, option is avialable to pass the shortcut name from the app. To do this, just open the command prompt and navigate to the location where tool is placed and call the tool with input 
+
+e.g. cd C:\Launcher
+	 LauncherV1.exe chrome
+	 
+Above command will open chrome [if it exists in the configuration file]
+
