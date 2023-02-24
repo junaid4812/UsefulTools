@@ -2,7 +2,7 @@
 
 Hello Everyone,
 
-My name is Mohammed Junaid Khan, I am a passionate software engineer who likes learning technologies. I love automating the repetative tasks and build some utility tools. These tools works as our assistant doing the manual repetative tasks while allowing us to explore new technologie. Hope it helps!! 
+My name is Mohammed Junaid Khan, I am a passionate software engineer who likes learning technologies. I love automating the repetative tasks and build some utility tools. These tools work as our assistant performing repetative tasks thus allowing us to explore new technologies or better utilize our time. Hope it helps!! 
 
 If you think of any use case that requires repetative manual efforts, do provide the details under issue section. I'll see if this can be automated.
 
