@@ -41,7 +41,8 @@ Two versions of the utility are available:
 CLI Version: Allows you to create commands and execute multiple operations via a batch file.
 GUI Tool: Allows you to enter values and perform the task.
 
-Path:  PDFUtility/PDFUtility-cli.exe
-	   PDFUtility/PDFUtility-ui.exe
+Path:  
+PDFUtility/PDFUtility-cli.exe
+PDFUtility/PDFUtility-ui.exe
 	   
-Details on how to use these files is available in the PDFUtility/Readme.md
+Details on how to use these files is available in the PDFUtility/Readme.md [Yet to be added]
